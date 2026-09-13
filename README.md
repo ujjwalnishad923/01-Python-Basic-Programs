@@ -1,4 +1,4 @@
-# Python-Learning
-This is my first Repository.
-<br>
+01-Python-Basic-Programs
+Basic Python Programs (Beginners level).
+ <br>
 Author - Ujjwal Kumar Nishad
